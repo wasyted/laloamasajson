@@ -2,59 +2,165 @@
   "products": [
     {
       "id": 1, 
-      "name": "Pan", 
-      "price": 100, 
-      "description": "Pan amasado con harina 0000", 
-      "image": "../src/assets/thumbnails/pan-thumb.png", 
-      "category": "pan"
-    },
-    {  
-      "id": 2,
-      "name": "Pan integral",
-      "price": 110,
-      "description": "Pan amasado con harina integral",
-      "image": "../src/assets/thumbnails/pan-integral-thumb.png",
-      "category": "pan"
+      "name": "Budín de vainilla sin TACC", 
+      "price": 1900, 
+      "description": "Budín de vainilla 15cm sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
     },
     {
-      "id": 3,
-      "name": "Pan sin TACC",
-      "price": 130,
-      "description": "Pan amasado sin gluten",
-      "image": "../src/assets/thumbnails/pan-sin-tacc-thumb.png",
-      "category": "pan"
+      "id": 2, 
+      "name": "Budín de limón sin TACC", 
+      "price": 1900, 
+      "description": "Budín de limón 15cm sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
     },
     {
-      "id": 4,
-      "name": "Pan dulce",
-      "price": 150, 
-      "description": "Pan dulce con fruta abrillantada",
-      "image": "../src/assets/thumbnails/pan-dulce-thumb.png",
-      "category": "fiestas"
+      "id": 3, 
+      "name": "Budín de naranja sin TACC", 
+      "price": 1900, 
+      "description": "Budín de naranja 15cm sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
+    },
+    {
+      "id": 4, 
+      "name": "Budín de manzana sin TACC", 
+      "price": 1900, 
+      "description": "Budín de manzana 15cm sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
     },
     {
       "id": 5,
-      "name": "Budín chico", 
-      "price": 160, 
-      "description": "Budin de 150gr", 
-      "image": "../src/assets/thumbnails/budin-thumb.png", 
-      "category": "budin"
+      "name": "Budín con frutos secos sin TACC", 
+      "price": 2200, 
+      "description": "Budin con frutos secos 15cm sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
     },
     {
       "id": 6,
-      "name": "Budín mediano", 
-      "price": 200, 
-      "description": "Budin de 250gr", 
-      "image": "../src/assets/thumbnails/budin-thumb.png", 
-      "category": "budin"
+      "name": "Budín con frutos rojos sin TACC", 
+      "price": 2200, 
+      "description": "Budin con frutos rojos 15cm sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
     },
     {
-      "id": 7,
-      "name": "Budín grande", 
-      "price": 300, 
-      "description": "Budin de 600gr", 
-      "image": "../src/assets/thumbnails/budin-thumb.png", 
-      "category": "budin"
+      "id": 7, 
+      "name": "Budín de vainilla sin TACC", 
+      "price": 3700, 
+      "description": "Budín de vainilla 30cm sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
+    },
+    {
+      "id": 8, 
+      "name": "Budín XL de limón sin TACC", 
+      "price": 3700, 
+      "description": "Budín de limón 30cm sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
+    },
+    {
+      "id": 9, 
+      "name": "Budín XL de naranja sin TACC", 
+      "price": 3700, 
+      "description": "Budín de naranja 30cm sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
+    },
+    {
+      "id": 10, 
+      "name": "Budín XL de manzana sin TACC", 
+      "price": 3700, 
+      "description": "Budín de manzana 30cm sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
+    },
+    {
+      "id": 11,
+      "name": "Budín XL con frutos secos sin TACC", 
+      "price": 4000, 
+      "description": "Budin con frutos secos 30cm sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
+    },
+    {
+      "id": 12,
+      "name": "Budín XL con frutos rojos sin TACC", 
+      "price": 4000, 
+      "description": "Budin con frutos rojos 30cm sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
+    },
+    {
+      "id": 14, 
+      "name": "Budín formita de vainilla sin TACC", 
+      "price": 4000, 
+      "description": "Budín de vainilla en forma de flor sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
+    },
+    {
+      "id": 15, 
+      "name": "Budín formita de limón sin TACC", 
+      "price": 4000, 
+      "description": "Budín de limón en forma de flor sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
+    },
+    {
+      "id": 16, 
+      "name": "Budín formita de naranja sin TACC", 
+      "price": 4000, 
+      "description": "Budín de naranja en forma de flor sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
+    },
+    {
+      "id": 17, 
+      "name": "Budín formita de manzana sin TACC", 
+      "price": 4000, 
+      "description": "Budín de manzana en forma de flor sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
+    },
+    {
+      "id": 18,
+      "name": "Budín formita con frutos secos sin TACC", 
+      "price": 4000, 
+      "description": "Budin con frutos secos en forma de flor sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
+    },
+    {
+      "id": 19,
+      "name": "Budín formita con frutos rojos sin TACC", 
+      "price": 4000, 
+      "description": "Budin con frutos rojos en forma de flor sin gluten", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": true
     }
   ]
 }
