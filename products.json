@@ -161,6 +161,321 @@
       "image": "", 
       "category": "budin",
       "sinGluten": true
+    },
+    {
+      "id": 20,
+      "name": "Tarta Lemon Pie",
+      "price": 3500,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": false
+    },
+    {
+      "id": 21,
+      "name": "Tarta Toffi",
+      "price": 3500,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": false
+    },
+    {
+      "id": 22,
+      "name": "Tarta Coco",
+      "price": 3500,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": false
+    },
+    {
+      "id": 23,
+      "name": "Tarta Dulce de Leche",
+      "price": 3500,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": false
+    },
+    {
+      "id": 24,
+      "name": "Brownie",
+      "price": 3500,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": false
+    },
+    {
+      "id": 25,
+      "name": "Tarta de Ricota",
+      "price": 3500,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": false
+    },
+    {
+      "id": 26,
+      "name": "Pasta Frola",
+      "price": 3500,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": false
+    },
+    {
+      "id": 27,
+      "name": "Tarta de Manzana con Crumble",
+      "price": 3500,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": false
+    },
+    {
+      "id": 28,
+      "name": "Docena de Pizzetas",
+      "price": 1000,
+      "description": "",
+      "image": "",
+      "category": "salado",
+      "sinGluten": true
+    },
+    {
+      "id": 29,
+      "name": "Pan integral con semillas mediano",
+      "price": 1300,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": true
+    },
+    {
+      "id": 30,
+      "name": "Pan integral sin semillas mediano",
+      "price": 1300,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": true
+    },
+    {
+      "id": 33,
+      "name": "Galletitas Pepas integral",
+      "price": 1250,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": true
+    },
+    {
+      "id": 34,
+      "name": "Galletitas de Avena (Vainilla)",
+      "price": 1250,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": true
+    },
+    {
+      "id": 35,
+      "name": "Galletitas de Avena (Limón)",
+      "price": 1250,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": true
+    },
+    {
+      "id": 36,
+      "name": "Galletitas de Avena con Pasas",
+      "price": 1250,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": true
+    },
+    {
+      "id": 37,
+      "name": "Galletitas con Chips de Chocolate Amargo",
+      "price": 1250,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": true
+    },
+    {
+      "id": 38,
+      "name": "Paquete de Galletitas con Semillas",
+      "price": 1000,
+      "description": "",
+      "image": "",
+      "category": "",
+      "sinGluten": true
+    },
+    {
+      "id": 39, 
+      "name": "Budín de vainilla", 
+      "price": 1900, 
+      "description": "Budín de vainilla 15cm", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 40, 
+      "name": "Budín de limón sin TACC", 
+      "price": 1900, 
+      "description": "Budín de limón 15cm", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 41, 
+      "name": "Budín de naranja sin TACC", 
+      "price": 1900, 
+      "description": "Budín de naranja 15cm", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 42, 
+      "name": "Budín de manzana sin TACC", 
+      "price": 1900, 
+      "description": "Budín de manzana 15cm", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 43,
+      "name": "Budín con frutos secos sin TACC", 
+      "price": 2200, 
+      "description": "Budin con frutos secos 15cm", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 44,
+      "name": "Budín con frutos rojos sin TACC", 
+      "price": 2200, 
+      "description": "Budin con frutos rojos 15cm", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 45, 
+      "name": "Budín de vainilla sin TACC", 
+      "price": 3700, 
+      "description": "Budín de vainilla 30cm", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 46, 
+      "name": "Budín XL de limón sin TACC", 
+      "price": 3700, 
+      "description": "Budín de limón 30cm", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 47, 
+      "name": "Budín XL de naranja sin TACC", 
+      "price": 3700, 
+      "description": "Budín de naranja 30cm", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 48, 
+      "name": "Budín XL de manzana sin TACC", 
+      "price": 3700, 
+      "description": "Budín de manzana 30cm", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 49,
+      "name": "Budín XL con frutos secos sin TACC", 
+      "price": 4000, 
+      "description": "Budin con frutos secos 30cm", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 50,
+      "name": "Budín XL con frutos rojos sin TACC", 
+      "price": 4000, 
+      "description": "Budin con frutos rojos 30cm", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 51, 
+      "name": "Budín formita de vainilla sin TACC", 
+      "price": 4000, 
+      "description": "Budín de vainilla en forma de flor", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 52, 
+      "name": "Budín formita de limón sin TACC", 
+      "price": 4000, 
+      "description": "Budín de limón en forma de flor", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 53, 
+      "name": "Budín formita de naranja sin TACC", 
+      "price": 4000, 
+      "description": "Budín de naranja en forma de flor", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 54, 
+      "name": "Budín formita de manzana sin TACC", 
+      "price": 4000, 
+      "description": "Budín de manzana en forma de flor", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 55,
+      "name": "Budín formita con frutos secos sin TACC", 
+      "price": 4000, 
+      "description": "Budin con frutos secos en forma de flor", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 56,
+      "name": "Budín formita con frutos rojos sin TACC", 
+      "price": 4000, 
+      "description": "Budin con frutos rojos en forma de flor", 
+      "image": "", 
+      "category": "budin",
+      "sinGluten": false
     }
   ]
 }
