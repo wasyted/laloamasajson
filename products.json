@@ -168,7 +168,7 @@
       "price": 3500,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "torta",
       "sinGluten": false
     },
     {
@@ -177,7 +177,7 @@
       "price": 3500,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "torta",
       "sinGluten": false
     },
     {
@@ -186,7 +186,7 @@
       "price": 3500,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "torta",
       "sinGluten": false
     },
     {
@@ -195,7 +195,7 @@
       "price": 3500,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "torta",
       "sinGluten": false
     },
     {
@@ -204,7 +204,7 @@
       "price": 3500,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "torta",
       "sinGluten": false
     },
     {
@@ -213,7 +213,7 @@
       "price": 3500,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "torta",
       "sinGluten": false
     },
     {
@@ -222,7 +222,7 @@
       "price": 3500,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "torta",
       "sinGluten": false
     },
     {
@@ -231,7 +231,7 @@
       "price": 3500,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "torta",
       "sinGluten": false
     },
     {
@@ -249,7 +249,7 @@
       "price": 1300,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "pan",
       "sinGluten": true
     },
     {
@@ -258,7 +258,7 @@
       "price": 1300,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "pan",
       "sinGluten": true
     },
     {
@@ -267,7 +267,7 @@
       "price": 1250,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "sintacc",
       "sinGluten": true
     },
     {
@@ -276,7 +276,7 @@
       "price": 1250,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "sintacc",
       "sinGluten": true
     },
     {
@@ -285,7 +285,7 @@
       "price": 1250,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "sintacc",
       "sinGluten": true
     },
     {
@@ -294,7 +294,7 @@
       "price": 1250,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "sintacc",
       "sinGluten": true
     },
     {
@@ -303,7 +303,7 @@
       "price": 1250,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "sintacc",
       "sinGluten": true
     },
     {
@@ -312,7 +312,7 @@
       "price": 1000,
       "description": "",
       "image": "",
-      "category": "",
+      "category": "sintacc",
       "sinGluten": true
     },
     {
