@@ -272,19 +272,19 @@
     },
     {
       "id": 34,
-      "name": "Galletitas de Avena (Vainilla)",
+      "name": "Media Docena de Galletitas de Avena (Vainilla)",
       "price": 1250,
-      "description": "",
-      "image": "",
+      "description": "6 unidades",
+      "image": "https://photos.google.com/share/AF1QipONCsRGrN-2HGkTUUtQgIKbnokD5nSbyVgghEvPN3kn9yyGM_aD-8VyvWdbp6HpvA/photo/AF1QipMAjLeV1cQzWXpzv4qK7pEUG5gfZSS8ShgFjxeI?key=RFd1LWM4MTZKaVRoeTViU0ZJRFhHOGdfMGlhSHRB",
       "category": "galletitas",
       "sinGluten": true
     },
     {
       "id": 35,
-      "name": "Galletitas de Avena (Limón)",
+      "name": "Media Docena de Galletitas de Avena (Limón)",
       "price": 1250,
-      "description": "",
-      "image": "",
+      "description": "6 unidades",
+      "image": "https://photos.google.com/share/AF1QipONCsRGrN-2HGkTUUtQgIKbnokD5nSbyVgghEvPN3kn9yyGM_aD-8VyvWdbp6HpvA/photo/AF1QipMAjLeV1cQzWXpzv4qK7pEUG5gfZSS8ShgFjxeI?key=RFd1LWM4MTZKaVRoeTViU0ZJRFhHOGdfMGlhSHRB",
       "category": "galletitas",
       "sinGluten": true
     },
@@ -600,6 +600,15 @@
       "price": 2000,
       "description": "Lingote de pan integral, 30cm",
       "image": "",
+      "category": "pan",
+      "sinGluten": false
+    },
+    {
+      "id": 71,
+      "name": "Docena de Figazzitas de Manteca",
+      "price": 2000,
+      "description": "Docena de figazzitas de manteca",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV84pBF-dTzd24skL2-WCS7A66eAK0HVkM0J68MIGR8x_zn3-_dltKEosmNsGRH54v4ldonGGwnTlZ15oimRI_h_ZtxosKwc231jWdcTEUkkPGyWzWLVQwOZxFan_zXkhk416ShgXU06OyrkAMJZ-dl4BxA=w832-h1850-s-no-gm?authuser=0",
       "category": "pan",
       "sinGluten": false
     }
