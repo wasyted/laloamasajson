@@ -254,12 +254,12 @@
     },
     {
       "id": 30,
-      "name": "Pan integral sin semillas mediano",
-      "price": 1300,
-      "description": "",
+      "name": "Pan integral",
+      "price": 1200,
+      "description": "Lingote de pan integral, 15cm",
       "image": "",
       "category": "pan",
-      "sinGluten": true
+      "sinGluten": false
     },
     {
       "id": 33,
@@ -267,7 +267,7 @@
       "price": 1250,
       "description": "",
       "image": "https://lh3.googleusercontent.com/pw/ABLVV85y0OnZ9eZhyz1pFYDRSa96jZBIJpoikEYK_2Af1yA-RqDNw_C3acFSNBadgj-59SZlKN_2QwNGyfC8lhiZ_waKoLwt8tduPxK6Tp7XADYo6SydjG9GFUHM5K9KSbmencjj8z18_mztHIQemXoaFOMoMw=w649-h649-s-no-gm?authuser=0",
-      "category": "sintacc",
+      "category": "galletitas",
       "sinGluten": true
     },
     {
@@ -276,7 +276,7 @@
       "price": 1250,
       "description": "",
       "image": "",
-      "category": "sintacc",
+      "category": "galletitas",
       "sinGluten": true
     },
     {
@@ -285,7 +285,7 @@
       "price": 1250,
       "description": "",
       "image": "",
-      "category": "sintacc",
+      "category": "galletitas",
       "sinGluten": true
     },
     {
@@ -294,7 +294,7 @@
       "price": 1250,
       "description": "",
       "image": "",
-      "category": "sintacc",
+      "category": "galletitas",
       "sinGluten": true
     },
     {
@@ -303,7 +303,7 @@
       "price": 1250,
       "description": "",
       "image": "",
-      "category": "sintacc",
+      "category": "galletitas",
       "sinGluten": true
     },
     {
@@ -312,7 +312,7 @@
       "price": 1000,
       "description": "",
       "image": "",
-      "category": "sintacc",
+      "category": "galletitas",
       "sinGluten": true
     },
     {
@@ -501,7 +501,7 @@
       "price": 1200, 
       "description": "Galletitas de vainilla, 12 unidades", 
       "image": "https://lh3.googleusercontent.com/pw/ABLVV85gzwtyKY082rcLn-evLwAhqvVD5bCnGOOL11QFb1r0ZvJLnMNll334DvBvSKAGPus_0coUFWuPNs9If2Z9oKkUTkRbu2bgZV2pj7rEO9gxrbjLoxQsAALRlISSGKVv776ogbH9Q0sc9ShlTea1QZxFZA=w1039-h1385-s-no-gm?authuser=0", 
-      "category": "galletita",
+      "category": "galletitas",
       "sinGluten": false
     },
     {
@@ -592,6 +592,15 @@
       "description": "Budin de vainilla con chips de chocolate, 30cm", 
       "image": "https://lh3.googleusercontent.com/pw/ABLVV84Lh9B9aEZgjpPSGsxoVB-bagD7b1eaMvZaXWebvYj4Qj9mmspeGpn4eXZMOXt1OoNwR4pUzEPuKsP0S7TbwNs5x91rVIK6YmbmZSJeXKZiv83p5VroQELpYmx8rXI8R-VoUjCQh7hCcZoA9xRL7ThPow=w706-h950-s-no-gm?authuser=0", 
       "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 70,
+      "name": "Pan XL integral",
+      "price": 2000,
+      "description": "Lingote de pan integral, 30cm",
+      "image": "",
+      "category": "pan",
       "sinGluten": false
     }
   ]
