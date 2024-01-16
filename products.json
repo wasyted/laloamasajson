@@ -257,7 +257,7 @@
       "name": "Pan integral",
       "price": 1200,
       "description": "Lingote de pan integral, 15cm",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV84DYIPXeqGo__1EJz5noQeaKj53tgfkC7c1F6cdwo3WAQJEOiXPVouBmuLGDgaISfd5vYG6eV7ZGE1CI-Cr9rt1ze43vQwdbmdWtmB6JSAsKo6_FgOHetMsF8BkJEudN9K-RnrKMVM8bsk82zqMH14l2Q=w1039-h1385-s-no-gm?authuser=0",
       "category": "pan",
       "sinGluten": false
     },
@@ -610,6 +610,132 @@
       "description": "Docena de figazzitas de manteca",
       "image": "https://lh3.googleusercontent.com/pw/ABLVV84pBF-dTzd24skL2-WCS7A66eAK0HVkM0J68MIGR8x_zn3-_dltKEosmNsGRH54v4ldonGGwnTlZ15oimRI_h_ZtxosKwc231jWdcTEUkkPGyWzWLVQwOZxFan_zXkhk416ShgXU06OyrkAMJZ-dl4BxA=w832-h1850-s-no-gm?authuser=0",
       "category": "pan",
+      "sinGluten": false
+    },
+    {
+      "id": 72,
+      "name": "Pan de molde",
+      "price": 1300,
+      "description": "Pan de molde o de campo, 15cm",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV86RDve89F7v4XTzTdM80woin8SEH-dE2Wgs4aLNGrannsV7s_fCtGKFKuuDoQbzzlwTlyhZCK7LZy7zuZDRdzO1kLuo_6lIBM44B40D7-4pvr28awlAywJy0uYI-JG9061zfY3a_cgB05XyUWQxXeszkg=w1039-h1385-s-no-gm?authuser=0",
+      "category": "pan",
+      "sinGluten": false
+    },
+    {
+      "id": 73,
+      "name": "Pan XL de molde",
+      "price": 2000,
+      "description": "Pan de molde o de campo, 30cm",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV84rgXz4RL869-DCqWi4VN02DxLBx0ZBeWztSEOhUbz0w5lzAeibt5P03MDHTY2PAwz1QoEUzhazUMuB3Z9_d5rJdKnuLJdW_JmXqZbiaEQYeU_03C-eoAcyGUf-o27Cjj20S6rUyRtGdvl1HXUSGNn46Q=w1039-h1385-s-no-gm?authuser=0",
+      "category": "pan",
+      "sinGluten": false
+    },
+    {
+      "id": 74,
+      "name": "Pan de Hamburguesa",
+      "price": 1200,
+      "description": "4 unidades",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV86L5fysOkTBkzBlPM4Rhy3EvnnA-sQJEFrkxl6ywSR7OFguNz8-0t-SxEC31guCVGGRwpXqANm7AtzlFEpAN-OF5f8sunGKWQhdgJRqC9yHFlhIYGCZsWhW6mScY_-v-_N26hdfFGRpfJ1HT_P7RlGKzg=w1039-h1385-s-no-gm?authuser=0",
+      "category": "pan",
+      "sinGluten": false
+    },
+    {
+      "id": 75,
+      "name": "Pan SIN TACC",
+      "price": 1600,
+      "description": "Pan sin gluten, 15cm",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV85pWKr7wv4rXX8lyMe9FzsCthHUav79-OUsIdVTW4NxrcwOJNiHCR2Sge9Q934be0I6a8lAHGGmON6vAcRvlSOtb8vBs66saUV7ocn-1rGcIrIuTZ6-gPvreRCLPWAH1VuAhqORXk_1ubVEzWiBfUhnqw=w1039-h1385-s-no-gm?authuser=0",
+      "category": "pan",
+      "sinGluten": true
+    },
+    {
+      "id": 76,
+      "name": "Pan XL SIN TACC",
+      "price": 2600,
+      "description": "Pan sin gluten, 30cm",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV84hrGuczD3UY28Ej-mPofLc0lT3Y5Jz003Z_Jt-KMtfQ_e2rOk6JDGMYJGDekBJQ_FxDnwRFG29WT15iX6YeW7P8uwXHxXBJ0gTMtJqo8f92XquWAnJWQF8LdJnN1dxrSauXuqbmGC8_99oeAPlhe7b2w=w1039-h1301-s-no-gm?authuser=0",
+      "category": "pan",
+      "sinGluten": true
+    },
+    {
+      "id": 77,
+      "name": "Pan de Maíz",
+      "price": 1200,
+      "description": "Pan de harina de maíz, 15cm",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV878K2siiOxjrivdmslLAWDNfi07IPpaDrblf3x63xBaTGxuP6HSuoHGE31aSbSy80hpssHOCSpScyVWyMBBHR6SDy57PY7JLjEjmL2okJqysmD92B6F8WznCnJM7MqJ05jQz3X9o7G_ruOCfLdKJitvow=w1039-h1385-s-no-gm?authuser=0",
+      "category": "pan",
+      "sinGluten": false
+    },
+    {
+      "id": 78,
+      "name": "Pan XL de Maíz",
+      "price": 2400,
+      "description": "Pan de harina de maíz, 30cm",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV878K2siiOxjrivdmslLAWDNfi07IPpaDrblf3x63xBaTGxuP6HSuoHGE31aSbSy80hpssHOCSpScyVWyMBBHR6SDy57PY7JLjEjmL2okJqysmD92B6F8WznCnJM7MqJ05jQz3X9o7G_ruOCfLdKJitvow=w1039-h1385-s-no-gm?authuser=0",
+      "category": "pan",
+      "sinGluten": false
+    },
+    {
+      "id": 78,
+      "name": "Pan XL de Maíz",
+      "price": 2400,
+      "description": "Pan de harina de maíz, 30cm",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV86NIEzIVIZZA8EKwZOnh8FOedPzrzyxRqM77S3iQYK5rgaRfQ3ItCgKAen8F89Xd7C2gnk4H0Lr1HymrzySe5x1VgzdDwHrOGS03VNvJ8UxJ8ypXPuLHGf4YkFQY8xz6lkT3BRgo-0CeQ9UiSrDxLZhzg=w1039-h1385-s-no-gm?authuser=0",
+      "category": "box",
+      "sinGluten": false
+    },
+    {
+      "id": 79,
+      "name": "Budín de Chocolate",
+      "price": 1300,
+      "description": "Budín de chocolate, 15cm",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV86RoaSjG8J7YoLj7x5IAjHp9T8YImvPrrAsLVuOap7nDIHjvm6Y6_fZf3elLC-5rTvBKmultIerlq5leZcmlGaiWF_2t24Vn_jHHLQZEzkAymvWLkLGL9rQNuBmosStO8XrWViSnKF1YnIOfUOltPFkzw=w780-h1040-s-no-gm?authuser=0",
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 80,
+      "name": "Budín XL de Chocolate",
+      "price": 2400,
+      "description": "Budín de chocolate, 30cm",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV86RoaSjG8J7YoLj7x5IAjHp9T8YImvPrrAsLVuOap7nDIHjvm6Y6_fZf3elLC-5rTvBKmultIerlq5leZcmlGaiWF_2t24Vn_jHHLQZEzkAymvWLkLGL9rQNuBmosStO8XrWViSnKF1YnIOfUOltPFkzw=w780-h1040-s-no-gm?authuser=0",
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 81,
+      "name": "Torta Flor de Vainilla",
+      "price": 4000,
+      "description": "Torta de vainilla con forma de flor",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV84sru1O2qjtwPK2VWAV8Ri8s5uhdqjaUMK7xH1U5gCH-lwkSqQGmrPT7p3s8tErXWmEURPSsf04bE4TbmQWFKpzFssujRLEhkBXUsroxFwrSDC2XQLOL5Uc9m83Nf-tP7Q7lyDTXVvPeiR-OwtbtyJEjg=w1039-h1385-s-no-gm?authuser=0",
+      "category": "torta",
+      "sinGluten": false
+    },
+    {
+      "id": 82,
+      "name": "Torta Flor de Naranja",
+      "price": 4000,
+      "description": "Torta de naranja con forma de flor",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV84sru1O2qjtwPK2VWAV8Ri8s5uhdqjaUMK7xH1U5gCH-lwkSqQGmrPT7p3s8tErXWmEURPSsf04bE4TbmQWFKpzFssujRLEhkBXUsroxFwrSDC2XQLOL5Uc9m83Nf-tP7Q7lyDTXVvPeiR-OwtbtyJEjg=w1039-h1385-s-no-gm?authuser=0",
+      "category": "torta",
+      "sinGluten": false
+    },
+    {
+      "id": 83,
+      "name": "Torta Flor Marmolada",
+      "price": 4000,
+      "description": "Torta marmolada con forma de flor",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV84sru1O2qjtwPK2VWAV8Ri8s5uhdqjaUMK7xH1U5gCH-lwkSqQGmrPT7p3s8tErXWmEURPSsf04bE4TbmQWFKpzFssujRLEhkBXUsroxFwrSDC2XQLOL5Uc9m83Nf-tP7Q7lyDTXVvPeiR-OwtbtyJEjg=w1039-h1385-s-no-gm?authuser=0",
+      "category": "torta",
+      "sinGluten": false
+    },
+    {
+      "id": 84,
+      "name": "Torta Matera",
+      "price": 4000,
+      "description": "Torta ideal para el mate, sabor vainilla",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV86yvD6JUW4wmZEdEljoopIWOjlJalMNeREMcHtx2OE7aC_npsSN4z36nUlRP4ousTSauG56iUnVbkipy8-JogbWlU-dHgl2pfnztnXQSUT8A8qeMZwyOrIj6Ulm436R0i6nkIVw6klh1HIJRdVOzIinWg=w832-h1850-s-no-gm?authuser=0",
+      "category": "torta",
       "sinGluten": false
     }
   ]
