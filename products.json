@@ -200,10 +200,10 @@
     },
     {
       "id": 24,
-      "name": "Brownie",
+      "name": "Torta Brownie",
       "price": 3500,
       "description": "",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV860rbMG7-p6MKmt4ydqFpAoTe_2ZaKZ8RQYnYKnufm-7Wx7rZfYxXxgA-F5V0hBg9eUqox6W01Fqqyw9KqB3b5MwAFSf_Ks8ycyfhx6dqtQpJpISWxF-CaNEbaoBOu3Llo5Ol0Q4Ja1qUJR44Dm8bHINA=w780-h1040-s-no-gm?authuser=0",
       "category": "torta",
       "sinGluten": false
     },
@@ -318,16 +318,16 @@
     {
       "id": 39, 
       "name": "Budín de vainilla", 
-      "price": 1900, 
+      "price": 1300, 
       "description": "Budín de vainilla 15cm", 
-      "image": "", 
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV86EosH119_dZ32DdgOoAs6HQJWl2NXiOWL7cMtTFEx0Y777E2JbfeyD95TFFn_FgvhqDRTFGg49ZsSNs4E6ngnVDN2dnWPvhO2-WiKDuLEVdx87AJXryLEmBdP2KMfzrVzc6fGZTbbmvQIqjNHNE0tbog=w1039-h1385-s-no-gm?authuser=0", 
       "category": "budin",
       "sinGluten": false
     },
     {
       "id": 40, 
-      "name": "Budín de limón sin TACC", 
-      "price": 1900, 
+      "name": "Budín de limón", 
+      "price": 1300, 
       "description": "Budín de limón 15cm", 
       "image": "", 
       "category": "budin",
@@ -335,8 +335,8 @@
     },
     {
       "id": 41, 
-      "name": "Budín de naranja sin TACC", 
-      "price": 1900, 
+      "name": "Budín de naranja", 
+      "price": 1300, 
       "description": "Budín de naranja 15cm", 
       "image": "https://lh3.googleusercontent.com/pw/ABLVV86smC3H96kqA2xCMPGOkk41CAzwCYvfWPrLCQmg_pIOUWoPTWvtsKNmvlAPW6QV-KDZ3ZdnDSU6imZEEeso9KCttWZiFEwThxj4GN_5bdP3lRjaZLI5yKWigAC5i1yzLK7hF8_R2asl8zXmt7UMFB6-pw=w487-h649-s-no-gm?authuser=0", 
       "category": "budin",
@@ -344,8 +344,8 @@
     },
     {
       "id": 42, 
-      "name": "Budín de manzana sin TACC", 
-      "price": 1900, 
+      "name": "Budín de manzana", 
+      "price": 1300, 
       "description": "Budín de manzana 15cm", 
       "image": "https://lh3.googleusercontent.com/pw/ABLVV848RTvPxO3PYQ6MtkWO2tFFAZFNw9hQQUvtbFpZWJLKsqelLMehNVTq6JjYHbKXpytqqZwuQ8Ef8Qbiy0z-mbQstbxVYq9NV6-Ml1Y7iSK3cX0x4vXNOU_X_ePq1WV_ZdSCBasotBajNnAABszOkiQaiw=w487-h649-s-no-gm?authuser=0", 
       "category": "budin",
@@ -353,8 +353,8 @@
     },
     {
       "id": 43,
-      "name": "Budín con frutos secos sin TACC", 
-      "price": 2200, 
+      "name": "Budín con frutos secos", 
+      "price": 2100, 
       "description": "Budin con frutos secos 15cm", 
       "image": "", 
       "category": "budin",
@@ -362,8 +362,8 @@
     },
     {
       "id": 44,
-      "name": "Budín con frutos rojos sin TACC", 
-      "price": 2200, 
+      "name": "Budín con frutos rojos", 
+      "price": 2100, 
       "description": "Budin con frutos rojos 15cm", 
       "image": "https://lh3.googleusercontent.com/pw/ABLVV84LaEPvZf4Pbas67YCmciBwZIsrKekC9NxcVmQ_T6sLOai2pwpBpvT0Y1_XiNn2-PqFlBdfzo-djkfQe8yWOm0Q7xZZyx8TPFJHRbeA5eF37UkV7XXfPIMA7xIZjGXdZsNacRKk4cKTKIedx-CPVKSICA=w487-h649-s-no-gm?authuser=0", 
       "category": "budin",
@@ -371,7 +371,7 @@
     },
     {
       "id": 45, 
-      "name": "Budín de vainilla sin TACC", 
+      "name": "Budín de vainilla", 
       "price": 3700, 
       "description": "Budín de vainilla 30cm", 
       "image": "", 
@@ -380,7 +380,7 @@
     },
     {
       "id": 46, 
-      "name": "Budín XL de limón sin TACC", 
+      "name": "Budín XL de limón", 
       "price": 3700, 
       "description": "Budín de limón 30cm", 
       "image": "", 
@@ -389,7 +389,7 @@
     },
     {
       "id": 47, 
-      "name": "Budín XL de naranja sin TACC", 
+      "name": "Budín XL de naranja", 
       "price": 3700, 
       "description": "Budín de naranja 30cm", 
       "image": "https://lh3.googleusercontent.com/pw/ABLVV86smC3H96kqA2xCMPGOkk41CAzwCYvfWPrLCQmg_pIOUWoPTWvtsKNmvlAPW6QV-KDZ3ZdnDSU6imZEEeso9KCttWZiFEwThxj4GN_5bdP3lRjaZLI5yKWigAC5i1yzLK7hF8_R2asl8zXmt7UMFB6-pw=w487-h649-s-no-gm?authuser=0", 
@@ -398,7 +398,7 @@
     },
     {
       "id": 48, 
-      "name": "Budín XL de manzana sin TACC", 
+      "name": "Budín XL de manzana", 
       "price": 3700, 
       "description": "Budín de manzana 30cm", 
       "image": "https://lh3.googleusercontent.com/pw/ABLVV848RTvPxO3PYQ6MtkWO2tFFAZFNw9hQQUvtbFpZWJLKsqelLMehNVTq6JjYHbKXpytqqZwuQ8Ef8Qbiy0z-mbQstbxVYq9NV6-Ml1Y7iSK3cX0x4vXNOU_X_ePq1WV_ZdSCBasotBajNnAABszOkiQaiw=w487-h649-s-no-gm?authuser=0", 
@@ -407,7 +407,7 @@
     },
     {
       "id": 49,
-      "name": "Budín XL con frutos secos sin TACC", 
+      "name": "Budín XL con frutos secos", 
       "price": 4000, 
       "description": "Budin con frutos secos 30cm", 
       "image": "", 
@@ -416,7 +416,7 @@
     },
     {
       "id": 50,
-      "name": "Budín XL con frutos rojos sin TACC", 
+      "name": "Budín XL con frutos rojos", 
       "price": 4000, 
       "description": "Budin con frutos rojos 30cm", 
       "image": "https://lh3.googleusercontent.com/pw/ABLVV84LaEPvZf4Pbas67YCmciBwZIsrKekC9NxcVmQ_T6sLOai2pwpBpvT0Y1_XiNn2-PqFlBdfzo-djkfQe8yWOm0Q7xZZyx8TPFJHRbeA5eF37UkV7XXfPIMA7xIZjGXdZsNacRKk4cKTKIedx-CPVKSICA=w487-h649-s-no-gm?authuser=0", 
@@ -425,7 +425,7 @@
     },
     {
       "id": 51, 
-      "name": "Budín formita de vainilla sin TACC", 
+      "name": "Budín formita de vainilla", 
       "price": 4000, 
       "description": "Budín de vainilla en forma de flor", 
       "image": "", 
@@ -434,7 +434,7 @@
     },
     {
       "id": 52, 
-      "name": "Budín formita de limón sin TACC", 
+      "name": "Budín formita de limón", 
       "price": 4000, 
       "description": "Budín de limón en forma de flor", 
       "image": "", 
@@ -443,7 +443,7 @@
     },
     {
       "id": 53, 
-      "name": "Budín formita de naranja sin TACC", 
+      "name": "Budín formita de naranja", 
       "price": 4000, 
       "description": "Budín de naranja en forma de flor", 
       "image": "https://lh3.googleusercontent.com/pw/ABLVV86smC3H96kqA2xCMPGOkk41CAzwCYvfWPrLCQmg_pIOUWoPTWvtsKNmvlAPW6QV-KDZ3ZdnDSU6imZEEeso9KCttWZiFEwThxj4GN_5bdP3lRjaZLI5yKWigAC5i1yzLK7hF8_R2asl8zXmt7UMFB6-pw=w487-h649-s-no-gm?authuser=0", 
@@ -452,16 +452,16 @@
     },
     {
       "id": 54, 
-      "name": "Budín formita de manzana sin TACC", 
+      "name": "Budín formita de manzana", 
       "price": 4000, 
       "description": "Budín de manzana en forma de flor", 
-      "image": "https://lh3.googleusercontent.com/pw/ABLVV848RTvPxO3PYQ6MtkWO2tFFAZFNw9hQQUvtbFpZWJLKsqelLMehNVTq6JjYHbKXpytqqZwuQ8Ef8Qbiy0z-mbQstbxVYq9NV6-Ml1Y7iSK3cX0x4vXNOU_X_ePq1WV_ZdSCBasotBajNnAABszOkiQaiw=w487-h649-s-no-gm?authuser=0", 
+      "image": "", 
       "category": "budin",
       "sinGluten": false
     },
     {
       "id": 55,
-      "name": "Budín formita con frutos secos sin TACC", 
+      "name": "Budín formita con frutos secos", 
       "price": 4000, 
       "description": "Budin con frutos secos en forma de flor", 
       "image": "", 
@@ -470,10 +470,82 @@
     },
     {
       "id": 56,
-      "name": "Budín formita con frutos rojos sin TACC", 
+      "name": "Budín formita con frutos rojos", 
       "price": 4000, 
       "description": "Budin con frutos rojos en forma de flor", 
       "image": "https://lh3.googleusercontent.com/pw/ABLVV84LaEPvZf4Pbas67YCmciBwZIsrKekC9NxcVmQ_T6sLOai2pwpBpvT0Y1_XiNn2-PqFlBdfzo-djkfQe8yWOm0Q7xZZyx8TPFJHRbeA5eF37UkV7XXfPIMA7xIZjGXdZsNacRKk4cKTKIedx-CPVKSICA=w487-h649-s-no-gm?authuser=0", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 57,
+      "name": "Budín de arandanos", 
+      "price": 1600, 
+      "description": "Budin de arandanos 15cm", 
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV85N-Ial1ygbUAgFdmZjQUOtS0HjSvdxXp6CYJNlaveyknqR9nArTuODzcGJKNAlAgsZVe-X45baHfnl8yKm4wZR7dYyiEz3qdY4rpAgWnLoSSZjrhACA8ZiArIETb00qq0mbKlx5G8wPU-vD5HY47xEyg=w1039-h1380-s-no-gm?authuser=0", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 58,
+      "name": "Budín XL de arandanos", 
+      "price": 2800, 
+      "description": "Budin de arandanos 30cm", 
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV85N-Ial1ygbUAgFdmZjQUOtS0HjSvdxXp6CYJNlaveyknqR9nArTuODzcGJKNAlAgsZVe-X45baHfnl8yKm4wZR7dYyiEz3qdY4rpAgWnLoSSZjrhACA8ZiArIETb00qq0mbKlx5G8wPU-vD5HY47xEyg=w1039-h1380-s-no-gm?authuser=0", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 59,
+      "name": "Docena de Galletitas", 
+      "price": 1200, 
+      "description": "Galletitas de vainilla, 12 unidades", 
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV85gzwtyKY082rcLn-evLwAhqvVD5bCnGOOL11QFb1r0ZvJLnMNll334DvBvSKAGPus_0coUFWuPNs9If2Z9oKkUTkRbu2bgZV2pj7rEO9gxrbjLoxQsAALRlISSGKVv776ogbH9Q0sc9ShlTea1QZxFZA=w1039-h1385-s-no-gm?authuser=0", 
+      "category": "galletita",
+      "sinGluten": false
+    },
+    {
+      "id": 60,
+      "name": "Budin de Banana y Caramelo", 
+      "price": 1500, 
+      "description": "Budin de banana y caramelo, 15cm", 
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV86JVczGaToqT9WLbzMYaqhQSnhCeEAD61u9XeXawiierhA-FBUJr3WeFo2Es3fqOi_Z1wLBtpvq2uL9EM16ijs2zz-X0a5NQ6Uyk_olSe61dpqUOjyu0TpGECCF-Th6Y_Yk7VZvNbA8vbLggb003LMGFA=w715-h950-s-no-gm?authuser=0", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 61,
+      "name": "Budin de Banana y Caramelo", 
+      "price": 2300, 
+      "description": "Budin de banana y caramelo, 30cm", 
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV86JVczGaToqT9WLbzMYaqhQSnhCeEAD61u9XeXawiierhA-FBUJr3WeFo2Es3fqOi_Z1wLBtpvq2uL9EM16ijs2zz-X0a5NQ6Uyk_olSe61dpqUOjyu0TpGECCF-Th6Y_Yk7VZvNbA8vbLggb003LMGFA=w715-h950-s-no-gm?authuser=0", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 62,
+      "name": "Budin Integral de Vainilla", 
+      "price": 3000, 
+      "description": "Budin integral de vainilla con forma de flor", 
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV84SonqkTCi_P5DHrKMInv55Rhoj6X_pnPsdBDU3rvuLjT1UXp2jwXOUCd1HyPlhFrzgIR02nLIdu1RpclyLi-gOwhMU992jS18vv00V9vsN0YyOp5MsGZB7-8-BgSeY2xarCahZ-AgcA-K4oOciRofCEQ=w534-h950-s-no-gm?authuser=0", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 63,
+      "name": "Budin Integral de Naranja", 
+      "price": 3000, 
+      "description": "Budin integral de naranja con forma de flor", 
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV84SonqkTCi_P5DHrKMInv55Rhoj6X_pnPsdBDU3rvuLjT1UXp2jwXOUCd1HyPlhFrzgIR02nLIdu1RpclyLi-gOwhMU992jS18vv00V9vsN0YyOp5MsGZB7-8-BgSeY2xarCahZ-AgcA-K4oOciRofCEQ=w534-h950-s-no-gm?authuser=0", 
+      "category": "budin",
+      "sinGluten": false
+    },
+    {
+      "id": 64,
+      "name": "Budin Integral de Naranja", 
+      "price": 3000, 
+      "description": "Budin integral de naranja con forma de flor", 
+      "image": "https://lh3.googleusercontent.com/pw/ABLVV84SonqkTCi_P5DHrKMInv55Rhoj6X_pnPsdBDU3rvuLjT1UXp2jwXOUCd1HyPlhFrzgIR02nLIdu1RpclyLi-gOwhMU992jS18vv00V9vsN0YyOp5MsGZB7-8-BgSeY2xarCahZ-AgcA-K4oOciRofCEQ=w534-h950-s-no-gm?authuser=0", 
       "category": "budin",
       "sinGluten": false
     }
